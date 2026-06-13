@@ -7,7 +7,7 @@ I’m a Full Stack Developer specializing in the **MERN stack**. I build scalabl
 - 🌍 Based in **Faisalabad, Pakistan**  
 - 🖥️ Portfolio: [ayan.is-a.dev](http://ayan.is-a.dev)  
 - ✉️ Email: [ayannaseerg67@gmail.com](mailto:ayannaseerg67@gmail.com)  
-- 🚀 Currently working on: [Ilmiya](http://ilmiya.com)  
+- 🚀 Currently working on: [Ilmiya](http://complya.com)  
 - 🧠 Learning: **Rust**  
 - 🤝 Open to collaborate on: **JavaScript & Full Stack Projects**  
 
